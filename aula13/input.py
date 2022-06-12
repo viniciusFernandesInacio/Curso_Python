@@ -1,3 +1,6 @@
+import os
+os.system('cls') #No windows
+
 '''nome=input('Dugute seu nome: ')
 print(f"Nome digitado: {nome}")'''
 
